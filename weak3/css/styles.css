@@ -1,0 +1,9 @@
+.sec {
+    background-color: #999999;
+    min-height: 1000px;
+    margin: 10px auto;
+}
+
+.sec h4 {
+    font-weight: bold;
+}
